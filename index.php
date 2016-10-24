@@ -6,4 +6,4 @@
  * Time: 19:09
  */
 
-echo json_encode(['result' => 'ok-2']);
+echo json_encode(['result' => 'ok-3']);
